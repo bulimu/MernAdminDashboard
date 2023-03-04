@@ -20,8 +20,7 @@ const Geography = () => {
         borderRadius="4px"
       >
         {data ? (
-          // npm i @nivo/core @nivo/geo, see https://nivo.rocks/choropleth/
-
+          // install @nivo/core @nivo/geo, see https://nivo.rocks/choropleth/
           <ResponsiveChoropleth
             data={data}
             theme={{
