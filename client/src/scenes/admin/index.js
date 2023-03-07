@@ -85,7 +85,7 @@ const Admin = () => {
           loading={isLoading || !data}
           getRowId={(row) => row._id}
           rows={data || []}
-          pageSize={25}
+          pageSize={100}
           columns={columns}
           components={{
             ColumnMenu: CustomColumnMenu,
