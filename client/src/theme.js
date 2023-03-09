@@ -1,4 +1,3 @@
-
 // color design tokens export
 export const tokensDark = {
   grey: {
@@ -28,9 +27,10 @@ export const tokensDark = {
     800: "#0d1025",
     900: "#070812",
   },
+
   secondary: {
     // yellow
-    50: "#f0f0f0", // manually adjusted
+    /* 50: "#f0f0f0", // manually adjusted
     100: "#fff6e0",
     200: "#ffedc2",
     300: "#ffe3a3",
@@ -39,7 +39,17 @@ export const tokensDark = {
     600: "#cca752",
     700: "#997d3d",
     800: "#665429",
-    900: "#332a14",
+    900: "#332a14", */
+    50: "#fefbec",
+    100: "#fbf4cb",
+    200: "#f6e992",
+    300: "#f3d959",
+    400: "#efc739",
+    500: "#e7a518",
+    600: "#ce8012",
+    700: "#aa5c13",
+    800: "#884716",
+    900: "#703b15",
   },
 };
 
@@ -109,7 +119,7 @@ export const themeSettings = (mode) => {
           }),
     },
     typography: {
-        // google font
+      // google font
       fontFamily: ["Inter", "sans-serif"].join(","),
       fontSize: 12,
       h1: {
