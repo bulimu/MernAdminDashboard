@@ -2,6 +2,8 @@
 
 This is a Full Stack Application built using the MERN stack: MongoDB, Express, React and Node.js. The application is designed to showcase the use of these technologies to create a web application.
 
+The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON.
+
 ![mern](https://user-images.githubusercontent.com/21138006/223948634-7494ff36-8929-4c71-aa6d-b2f5546c0e1d.jpg)
 
 
