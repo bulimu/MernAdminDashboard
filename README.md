@@ -4,17 +4,17 @@ This is a Full Stack Application built using the MERN stack: MongoDB, Express, R
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository
 2. Install dependencies:
    - Server: `cd server && npm install`
    - Client: `cd client && npm install`
 3. Create a `.env` file in the server directory and add the following:
 
-   > MONGO_URI=<your_mongo_uri>
-   > PORT = 5001
+   `MONGO_URI=<your_mongo_uri>`   
+   `PORT = 5001`
 
 4. Create a `.env.local` file in the client directory and add the following:
-   > REACT_APP_BASE_URL=<your_server>
+   ` REACT_APP_BASE_URL=<your_server>`
 4. Start the application:
 - Server: `cd server && npm start`
 - Client: `cd client && npm start`
@@ -27,6 +27,15 @@ This application uses the following technologies:
 - Express: A fast, unopinionated, minimalist web framework for Node.js used for building APIs.
 - React: A JavaScript library for building user interfaces.
 - Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine used for building server-side applications.
+
+## VS Code Extensions
+
+
+The following VS Code extensions are recommended for development:
+
+- ES7+ React/Redux/React-Native snippets: Provides shortcuts for commonly used React/Redux snippets.
+- Prettier - Code formatter: A code formatter that helps maintain a consistent style across the codebase.
+- Tailwind Shades: A Tailwind CSS color palette generator.
 
 ## Environment Variables
 
