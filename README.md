@@ -2,7 +2,7 @@
 
 This is a Full Stack Application built using the MERN stack: MongoDB, Express, React and Node.js. The application is designed to showcase the use of these technologies to create a web application.
 
-#### [Link of MERN Admin Dashboard](mern-admin-dashboard-gray.vercel.app)
+#### [Website](mern-admin-dashboard-gray.vercel.app)
 
 
 The MERN architecture allows you to easily construct a three-tier architecture (front end, back end, database) entirely using JavaScript and JSON.
