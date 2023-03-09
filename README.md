@@ -2,6 +2,9 @@
 
 This is a Full Stack Application built using the MERN stack: MongoDB, Express, React and Node.js. The application is designed to showcase the use of these technologies to create a web application.
 
+![mern](https://user-images.githubusercontent.com/21138006/223948634-7494ff36-8929-4c71-aa6d-b2f5546c0e1d.jpg)
+
+
 ## Installation
 
 1. Clone the repository
@@ -16,8 +19,8 @@ This is a Full Stack Application built using the MERN stack: MongoDB, Express, R
 4. Create a `.env.local` file in the client directory and add the following:
    ` REACT_APP_BASE_URL=<your_server>`
 4. Start the application:
-- Server: `cd server && npm start`
-- Client: `cd client && npm start`
+- Server: `cd server && npm run dev || npm run start`
+- Client: `cd client && npm run start`
 
 ## Technologies
 
